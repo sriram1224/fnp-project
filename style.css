@@ -1,0 +1,29 @@
+.nav-2{
+    background-color: rgb(125,128,53);
+}
+
+.nav-1{
+    background-color:  rgb(112,116,40);
+    color: white;
+}
+
+.header-left img{
+    height: 80px;
+}
+
+.header-left input{
+    height: 30px;
+    width: 25rem;
+    margin: 5px 10px;
+}
+
+.header-left .search{
+    background-color: white;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+}
+
+.cart, .account{
+    color: white;
+}
