@@ -4,6 +4,9 @@
 *{
     font-family: 'Open Sans', sans-serif;
 }
+body{
+    background-color: rgb(242,242,242);
+}
 .nav-2{
     background-color: rgb(125,128,53);
 }
@@ -32,6 +35,15 @@ nav{
     align-items: center;
 }
 
+
 .cart, .account{
     color: white;
+    text-align: center;
+}
+.ceremony-elements img{
+    width: 20rem;
+    border-radius: 40px;
+}
+.ceremony-elements p{
+    text-align: center;
 }
